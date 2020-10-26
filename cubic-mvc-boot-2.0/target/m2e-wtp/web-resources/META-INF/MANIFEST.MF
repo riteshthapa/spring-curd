@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Ritesh
+Build-Jdk: 14.0.1
+Implementation-Title: cubic-mvc-boot-2.0
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.spring
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/cubic-mvc-boot-2.0
+Created-By: Maven Integration for Eclipse
+
